@@ -4,7 +4,7 @@ Master's Thesis Research
 Author: Davinson Poveda  
 Core Stack: Python, Transformers, Advanced XAI (SHAP, LIME), SyntaxSHAP, SpaCy, EASSE
 
-[→ Open Interactive Notebook in Google Colab](https://colab.research.google.com/github/davinsonpoveda/Generative-Model-Interpretabilidad-and-Text-Simplification-Framework/blob/main/experimentos_XAI_2026.ipynb)
+[→ Open Interactive Notebook in Google Colab](https://colab.research.google.com/github/davinsonpoveda/Generative-Model-Interpretability-and-Text-Simplification-Framework/blob/main/experimentos_XAI_2026.ipynb)
 
 ---
 
